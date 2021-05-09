@@ -21,7 +21,8 @@ Started from a young kid's little laptop
 # Special Thanks
 
    * 0x00000FF
-    Game Tester / Domain Registrant / Publisher
+        
+        Game Tester / Site Domain / Publisher
 
 # Projects
 
