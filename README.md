@@ -6,7 +6,7 @@ Started from a young kid's little laptop
 
 [site](https://www.playerstudio1.com)
 
-# members
+# Members
 
 * Player12345678 - Main Developer
 
@@ -18,4 +18,6 @@ Started from a young kid's little laptop
 
   no descriptions
 
-# 
+# Projects
+
+
