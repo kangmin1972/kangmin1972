@@ -20,7 +20,7 @@ Started from a young kid's little laptop
 
 # Special Thanks
 
-   * 0x00000FF
+   * [0x00000FF](https://github.com/0x00000FF)
         
         Game Tester / Site Domain / Publisher
 
