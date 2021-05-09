@@ -16,6 +16,7 @@ Started from a young kid's little laptop
 
 * Crusadope - Composer
 
+  [Soundcloud](https://soundcloud.com/crusadope)
   no descriptions
 
 # Special Thanks
