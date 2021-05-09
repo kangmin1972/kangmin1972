@@ -18,6 +18,11 @@ Started from a young kid's little laptop
 
   no descriptions
 
+# Special Thanks
+
+   * 0x00000FF
+    Game Tester / Domain Registrant / Publisher
+
 # Projects
 
 ![image](https://user-images.githubusercontent.com/81474787/117567972-73bc5600-b0f9-11eb-87d1-8e1e4481b5cd.png)
