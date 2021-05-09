@@ -4,7 +4,7 @@ we make horror games.
 
 Started from a young kid's little laptop
 
-[site](https://www.playerstudio1.com)
+[PlayerStudio1](https://www.playerstudio1.com)
 
 # Members
 
