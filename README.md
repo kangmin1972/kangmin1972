@@ -20,4 +20,14 @@ Started from a young kid's little laptop
 
 # Projects
 
+![image](https://user-images.githubusercontent.com/81474787/117567972-73bc5600-b0f9-11eb-87d1-8e1e4481b5cd.png)
 
+Dark Birthday Series / Gamemaker 8
+
+**my first project**
+
+---------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/81474787/117568107-c990fe00-b0f9-11eb-8458-f0852811826f.png)
+
+Player Laboratory / Unity
