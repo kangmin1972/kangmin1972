@@ -1,6 +1,6 @@
 # PlayerStudio1
 
-we make horror games.
+we make horror games or mini programs
 
 Started from a young kid's little laptop
 
