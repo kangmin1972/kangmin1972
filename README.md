@@ -8,7 +8,7 @@ Started from a young kid's little laptop
 
 # Members
 
-* Player12345678 - Main Developer
+* Player12345678 (kangmin1972) - Main Developer
 
     Player sees the older brother and decides to become a developer.
     But development was not easy, so Player used the easiest-looking game maker 8.
