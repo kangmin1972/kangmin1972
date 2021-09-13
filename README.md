@@ -1,6 +1,7 @@
 # 활동량
 
-레전드 오브 대철 - 99% <br>
+레전드 오브 대철 - 95% <br>
+Flood Escape : UNITY - 4% <br>
 Player Laboratory - 1%
 
 # Language
