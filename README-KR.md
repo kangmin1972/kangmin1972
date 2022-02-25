@@ -1,8 +1,8 @@
 # 활동량
 
-레전드 오브 대철 - 95% <br>
+레전드 오브 대철 - 54% <br>
 Flood Escape : UNITY - 4% <br>
-Player Laboratory - 1%
+Project: Player - 13%
 
 # Language
 전 영어를 자주 쓰지 않습니다.
