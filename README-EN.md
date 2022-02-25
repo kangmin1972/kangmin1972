@@ -1,8 +1,8 @@
 # amount of activity 
 
-Legend of Daecheol - 95% <br>
+Legend of Daecheol - 54% <br>
 Flood Escape : UNITY - 1% <br>
-Player Laboratory - 4%
+Project: Player - 13%
 
 # Language
 i dont use english often<br>
