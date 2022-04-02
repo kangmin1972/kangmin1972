@@ -12,6 +12,6 @@ Maybe one day I'll be able to make a great game too.
 Project: Player is Horror Puzzle Survival Game. you need to solve the puzzles and escape this place.
 <br><br>
 ![image](https://user-images.githubusercontent.com/81474787/155743894-a820a887-44fa-4a24-a4d3-7652f83306e9.png)
-### <br> Into the Void - 43%
+### <br> Into the Void - 55%
 Into the Void is a roguelite FPS game focused on dementia.
 ![image](https://user-images.githubusercontent.com/81474787/155744656-6c3cfc8d-aee3-45fe-8e21-0d13abf5b83f.png)
