@@ -13,5 +13,5 @@ Legend of Daecheol is Fast-Paced Stealth Survival Game. (FPSSG) you can break a 
 <br><br>
 ![image](https://user-images.githubusercontent.com/81474787/198028291-f38c99bc-15bd-4507-b38f-a7fd3de4e4a9.png)
 ### <br> Into the Void - 55%
-Into the Void is a roguelite FPS game focused on dementia.
+Into the Void is a Very Fast-Paced Retro FPS game. (MOTION SICKNESS WARNING)
 ![image](https://user-images.githubusercontent.com/81474787/155744656-6c3cfc8d-aee3-45fe-8e21-0d13abf5b83f.png)
